@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Django settings for mi_aplicacion project.
 
@@ -37,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'centro_comercial.apps.CentroComercialConfig',
 ]
 
 MIDDLEWARE_CLASSES = [
