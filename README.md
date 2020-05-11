@@ -1,4 +1,4 @@
-# mi_aplicacion_django
+# example.django.mi_aplicacion
 
 Proyecto Django de ejemplo para entender el Django ORM
 
